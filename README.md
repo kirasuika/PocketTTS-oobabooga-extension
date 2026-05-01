@@ -7,7 +7,7 @@
 - AutoInstall drop run
 - ~200 MB footprint download, zero VRAM required  
 - True zero-shot cloning from 3–10 s reference audio
-- 48Khz Outputs on par with way bigger models → thanks to LavaSR https://github.com/ysharma3501/LavaSR
+- 48Khz Outputs on par with way bigger models → thanks to ysharma3501 https://github.com/ysharma3501/LavaSR
 - Recommended :
 Qwen3-TTS-1.7B phonetic bootstrap:
 Use a bigger model like Qwen3 TTS to input the voice you want to clone or your own from there make a phonetically dense clip and use that clip for PocketTTS.
