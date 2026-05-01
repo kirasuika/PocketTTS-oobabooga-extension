@@ -1,4 +1,3 @@
-(Warning: Mostly AI generated code tho highly reviewed by me several times)
 
 # Pocket TTS ONNX Extension for oobabooga/text-generation-webui with lavaSR upscaling
 
@@ -35,7 +34,6 @@ This targets lightweight, local, cloning-capable TTS on laptops / low-end hardwa
 # DISCLAIMER - READ THIS BEFORE USING
 
 **I (the repository owner / uploader) take zero responsibility for any use, misuse, or consequences of this code.**
-
 This extension includes voice cloning functionality via Pocket TTS (zero-shot from audio reference). Voice cloning can be used to:
 - Replicate real people's voices without consent
 - Create deepfakes, impersonations, misinformation, fraud, harassment, or illegal content
@@ -46,18 +44,6 @@ You are solely responsible for:
 - Obtaining explicit consent for any real person's voice used as reference
 - Complying with all applicable laws in your jurisdiction (deepfake regulations, privacy laws, copyright on audio, etc.)
 - Any harm, damage, legal consequences, or civil/criminal liability resulting from your use
-
-**No warranty of any kind is provided.**  
-This code is vibecode / AI-generated proof-of-concept. It is provided "as is" with no guarantees it works, is safe, secure, bug-free, or compatible with anything.
-
-**No support will be provided.**  
-I will not (unless I have free time):
-- Answer questions
-- Fix bugs
-- Add features
-- Respond to issues/PRs
-- Help with installation, errors, model paths, dependencies, or ethical/legal concerns
-
 By downloading, installing, or using this extension, you acknowledge and agree that:
 - You assume all risk
 - You release me from any and all liability
@@ -66,3 +52,5 @@ By downloading, installing, or using this extension, you acknowledge and agree t
 If you cannot or do not agree to these terms, delete the repo/folder immediately and do not use it.
 
 MIT License applies to the code itself, but this disclaimer overrides any conflicting implication.
+
+## Disclaimer - AI Aided
